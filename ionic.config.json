@@ -1,0 +1,8 @@
+{
+  "name": "memorycopy",
+  "app_id": "a001356e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
